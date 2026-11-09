@@ -7,14 +7,14 @@ Link to repository: <https://github.com/dalp565/Flashstudy.git>
 With the loss of free programs like Quizlet students are losing spaces they can store and practice
 their written materials and notes.
 This project aims to rebuild that space. More imprtantly this project allows the user to input
-study methods that suit their needs.
+study methods that suit their needs. i.e. Flash cards/Self made quizzes
 
 ## Features:
  - Build Flashcards
 
- - Study with Flash card games
+ - Take user input and turn it into saved files that can be opened and read.
 
- - Create a "Quiz mode" from user input.
+ - Create a "Quiz mode" from user input of study materials
  
 
 ## Challenges
