@@ -1,0 +1,12 @@
+# Hello! You're probably wondering what on earth is required to use this program.
+
+# Well that's the easy part!
+
+# This program makes use of a couple of things to work.
+
+# First off and most importantly this program is using the pygame library.
+# Specifically it's using pygmae-ce.
+
+# This program will also be using the random library!
+
+# This list will be updated as development continues so stay tuned!!
