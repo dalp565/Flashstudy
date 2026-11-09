@@ -21,7 +21,7 @@ study methods that suit their needs. i.e. Flash cards/Self made quizzes
 - Building a code that creates a windowed application for study.
 - Code should create flash cards with user input data.
 - Program should store data locally within the program files and be able to reopen them.
-- Build a couple of minigames for the code.
+- Build a minigame for the code.
 
 ## Outcomes
 Ideal Outcome:
