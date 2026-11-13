@@ -19,7 +19,7 @@ def main():
         for event in pygame.event.get():
             if event.type == pygame.QUIT or event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE:
                 running = False
-            # Code reigsters typing input from Keyboard.
+            # Code reigsters typing input from Keyboard. Prints out key used, reanchored into events.
             if event.type == pygame.TEXTINPUT:
                 print(event)
         background = BGCOLOR
