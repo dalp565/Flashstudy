@@ -19,8 +19,11 @@ def main():
         for event in pygame.event.get():
             if event.type == pygame.QUIT or event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE:
                 running = False
+            for event in pygame.event.get():
+                if event.type == pygame.TEXTINPUT:
+                    print(event)
         background = BGCOLOR
-        screen.fill(BGCOLOR)
+        screen.fill(background)
         pygame.display.flip()
         dt = clock.tick
     pygame.quit()
