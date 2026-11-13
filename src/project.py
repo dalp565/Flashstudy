@@ -9,7 +9,7 @@ BGCOLOR = BRIGHTBLUE = (0, 170, 255)
 
 def main():
     pygame.init()
-    pygame.display.set_caption("Flashcards window")
+    pygame.display.set_caption("FlashQuiz.py")
     clock = pygame.time.Clock()
     dt = 0
     resolution = (800,600)
